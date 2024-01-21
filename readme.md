@@ -1,4 +1,4 @@
-Phishing-Website-Classification
+Phishing-Website-Classification 
 
 We have a dataset that contains meta data about 5000 logitimate and 5000 phishing sites. Phishing is a type of semantic attack often used to steal user sensitive information including login credentials and credit card numbers by masquerading as a trusted entity, enticing a victim into clicking on a link or opening an attachment in an email or instant message. This is a large dataset with many meta data information.
 
